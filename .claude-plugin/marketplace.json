@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "winnie-skills",
+  "description": "Winnie's personal Ads-team plugins (PRD creation + Meego workflows)",
+  "owner": {
+    "name": "Winnie Lin",
+    "email": "winniex3531@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ads-prd",
+      "description": "Ads API PRD workflows: write a draft PRD for TikTok feature parity, and create Lark PRD docs linked to Meego workitems.",
+      "author": {
+        "name": "Winnie Lin"
+      },
+      "category": "productivity",
+      "source": "./plugins/ads-prd"
+    }
+  ]
+}

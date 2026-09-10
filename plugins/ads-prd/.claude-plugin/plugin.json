@@ -1,0 +1,9 @@
+{
+  "name": "ads-prd",
+  "description": "Ads API PRD workflows: write a draft PRD for TikTok feature parity, and create Lark PRD docs linked to Meego workitems.",
+  "author": {
+    "name": "Winnie Lin",
+    "email": "winniex3531@gmail.com"
+  },
+  "version": "1.0.0"
+}
